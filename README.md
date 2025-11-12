@@ -1,7 +1,7 @@
 # FiftyOne Enterprise Agriculture Workshop
 ## October 2025
 
-This repo contains Jupyter notebooks you can use to explore the **Crops3D** and **Robusta Coffee Leaf (RoCoLe) datasets.
+This repo contains Jupyter notebooks you can use to explore the **Crops3D** and **Robusta Coffee Leaf (RoCoLe)** datasets.
 
 ## Crops3D
 The `crops3d_fiftyone.ipynb` notebook will:
